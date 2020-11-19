@@ -1,7 +1,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-char        *solution(const char *S)
+char        *solution(const char *s)
 {
     int     len = strlen(s) - 1;
     char    temp;
